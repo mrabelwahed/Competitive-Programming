@@ -32,3 +32,4 @@ int main()
 }
 
 // Given : only string consist of only 4 repetitive chars A T C G
+// reset the count when you have a new char
